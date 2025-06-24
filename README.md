@@ -1,7 +1,5 @@
-# nba-data-analysis
+# Análise Estatística de Desempenho na NBA
 
-Análise Estatística de Desempenho na NBA
-Descrição do Projeto
 Este projeto realiza uma análise exploratória de dados (EDA) sobre as estatísticas de jogadores da NBA, investigando como diferentes variáveis como posição em quadra (PG, SG, SF, PF, C), altura e valores de jogo influenciam o desempenho individual.
 
 Foram testadas cinco hipóteses principais, buscando entender:
